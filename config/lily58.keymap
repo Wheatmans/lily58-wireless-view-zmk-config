@@ -43,7 +43,7 @@
 &kp GRAVE      &kp F1        &kp F2      &kp F3    &kp F4      &kp F5                                                          &kp F6     &kp F7     &kp F8           &kp F9    &kp F10   &kp F11
 &kp BACKSPACE  &kp C_VOL_DN  &kp C_PREV  &kp C_PP  &kp C_NEXT  &kp C_VOLUME_UP                                                 &kp F7     &kp F8     &kp F9           &kp F10   &kp F11   &kp F12
 &kp F13        &kp F14       &kp F15     &kp F16   &kp F17     &kp F18                                                         &kp CARET  &kp AMPS   &kp KP_MULTIPLY  &kp LPAR  &kp RPAR  &kp TILDE
-&trans         &trans        &trans      &trans    &trans      &trans           &kp LEFT_PARENTHESIS    &kp RIGHT_PARENTHESIS  &trans     &kp MINUS  &kp KP_PLUS      &kp LBRC  &kp RBRC  &kp PIPE
+&kp F19        &kp F20       &kp F21     &kp F22   &kp F23     &kp F24          &kp LEFT_PARENTHESIS    &kp RIGHT_PARENTHESIS  &trans     &kp MINUS  &kp KP_PLUS      &kp LBRC  &kp RBRC  &kp PIPE
                                          &trans    &trans      &trans           &trans                  &trans                 &trans     &trans     &trans
             >;
         };
